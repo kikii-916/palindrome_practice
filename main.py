@@ -6,7 +6,7 @@ Given a string text, return true if it is a palindrome, or false otherwise.
 For this question, letters are NOT case-sensitive, for example, "LEVeL" is a palindrome.
 """
 # Change this function so it works correctly
-def is_palindrome(text):
+def is_palindrome():
     return False
 
 
